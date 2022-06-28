@@ -3,3 +3,4 @@
 ```
 https://zindi.africa/competitions/zindi-weekendz-laduma-analytics-football-league-winners-prediction-challenge
 ```
+ ## There is a game_statistics.csv file which is not uploaded here due to it's huge size. This csv file can be downloaded from the competition webiste. The website link is given above.
